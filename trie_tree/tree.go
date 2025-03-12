@@ -1,4 +1,4 @@
-package trie
+package trie_tree
 
 type Node[V any] struct {
     Children map[rune]*Node[V]
