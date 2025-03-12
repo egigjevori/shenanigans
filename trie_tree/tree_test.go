@@ -1,4 +1,4 @@
-package trie_tree
+package main
 
 import (
     "testing"
